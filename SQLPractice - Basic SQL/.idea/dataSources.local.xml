@@ -13,6 +13,7 @@
         <introspection-scope>
           <node negative="1">
             <node kind="database">
+              <name qname="CasinoDatabase" />
               <name qname="@" />
               <name qname="CasinoDB" />
               <name qname="Ch07_ConstructCo" />
