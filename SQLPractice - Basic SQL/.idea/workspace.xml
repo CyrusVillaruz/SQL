@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3518274-ee04-4cdb-b293-307652ed0e4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLPractice/Casino Database/Employee Table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLPractice/Casino Database/Leave Table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLPractice/Casino Database/Milestone 3 Questions.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLPractice/Chapter 6 Exercises/1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLPractice/Chapter 6 Exercises/2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6abb10af-a12f-4e44-814b-1b71ffa4445c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6abb10af-a12f-4e44-814b-1b71ffa4445c/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6abb10af-a12f-4e44-814b-1b71ffa4445c/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6abb10af-a12f-4e44-814b-1b71ffa4445c/storage_v2/_src_/schema/mysql.osA4Bg.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6abb10af-a12f-4e44-814b-1b71ffa4445c/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dd4560d5-fa2e-4b13-82e5-1d2287488812.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dd4560d5-fa2e-4b13-82e5-1d2287488812/storage_v2/_src_/database/CasinoDB.U89jBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dd4560d5-fa2e-4b13-82e5-1d2287488812/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dd4560d5-fa2e-4b13-82e5-1d2287488812/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dd4560d5-fa2e-4b13-82e5-1d2287488812/storage_v2/_src_/database/master.YiqNvw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dd4560d5-fa2e-4b13-82e5-1d2287488812/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dd4560d5-fa2e-4b13-82e5-1d2287488812/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dd4560d5-fa2e-4b13-82e5-1d2287488812/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dd4560d5-fa2e-4b13-82e5-1d2287488812/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLPractice/Chapter 7 Databases/Ch07_ConstructCo.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLPractice/Chapter 6 Databases/Ch07_ConstructCo.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLPractice/Chapter 7 Databases/Ch07_Fact.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLPractice/Chapter 6 Databases/Ch07_Fact.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLPractice/Chapter 7 Databases/Ch_07_LargeCo.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLPractice/Chapter 6 Databases/Ch_07_LargeCo.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLPractice/Chapter 7 Databases/Ch_07_SaleCo.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLPractice/Chapter 6 Databases/Ch_07_SaleCo.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2M7aUiphrjBkENXov2QfflleCbg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Victor/DataGripProjects&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;sqlserver&quot;,
+      &quot;sqlserver.localdb&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;TSQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Victor\DataGripProjects\SQLPractice\Chapter 7 Databases" />
+      <recent name="C:\Users\Victor\DataGripProjects\SQLPractice" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
