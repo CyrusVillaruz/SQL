@@ -5,54 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3518274-ee04-4cdb-b293-307652ed0e4e" name="Changes" comment="Modified CasinoDB files">
-      <change afterPath="$PROJECT_DIR$/../SQLPractice/Casino Database/Department Table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SQLPractice/Casino Database/Employee-Department Table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SQLPractice/Casino Database/Employee-Shift Table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SQLPractice/Casino Database/Shift Table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SQLPractice/Casino Database/Written Warning Table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLPractice/Module 8 Lab/1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLPractice/Module 8 Lab/2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLPractice/Module 8 Lab/3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLPractice/Module 8 Lab/4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLPractice/Module 8 Lab/5.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_datareader.To823g.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_datawriter._tp55w.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_denydatareader.2lWItw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_owner.souIfA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/guest.2C3iBQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/sys.zb4BAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/CasinoDB.U89jBQ/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_datareader.To823g.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_datawriter._tp55w.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_denydatareader.2lWItw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_owner.souIfA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/guest.2C3iBQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/sys.zb4BAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_ConstructCo.EEi1AQ/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_datareader.To823g.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_datawriter._tp55w.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatareader.2lWItw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_owner.souIfA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/guest.2C3iBQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_SaleCo.hu2BiA/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_SaleCo.hu2BiA/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_SaleCo.hu2BiA/schema/sys.zb4BAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0311ebfd-dc2a-43ed-9dd6-bb633ef76788/storage_v2/_src_/database/Ch07_SaleCo.hu2BiA/schema/sys.zb4BAA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLPractice/Casino Database/Milestone 3 Questions.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLPractice/Casino Database/Milestone 3 Questions.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,27 +32,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Victor/DataGripProjects&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Victor/DataGripProjects",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;,
-      &quot;sqlserver&quot;,
-      &quot;sqlserver.localdb&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "sqlserver",
+      "sqlserver.localdb"
     ],
-    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
-      &quot;TSQL&quot;
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+      "TSQL"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Victor\DataGripProjects\SQLPractice\Chapter 7 Databases" />

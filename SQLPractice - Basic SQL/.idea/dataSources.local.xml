@@ -13,16 +13,15 @@
         <introspection-scope>
           <node negative="1">
             <node kind="database">
-              <name qname="CasinoDatabase" />
               <name qname="@" />
               <name qname="CasinoDB" />
               <name qname="Ch07_ConstructCo" />
+              <name qname="Ch07_SaleCo" />
               <node kind="schema" negative="1" />
             </node>
             <node kind="database">
               <name qname="Ch07_Fact" />
               <name qname="Ch07_LargeCo" />
-              <name qname="Ch07_SaleCo" />
               <name qname="model" />
               <name qname="msdb" />
               <name qname="tempdb" />
