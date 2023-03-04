@@ -6,3 +6,8 @@
 UPDATE albums
 SET release_year = 1986
 WHERE id = 4;
+
+'%' specifies varying lengths
+    "%Mary" means any string that ends with Mary
+    "MARY%" means any string that starts with MARY
+    "%MARY%" means any string that contains MARY
